@@ -2,14 +2,18 @@
 
 Les recettes qu'on fait souvent, parce qu'on est trop paresseux pour ouvrir un livre
 
+### Déjeuner
+
+* [Pain doré](dejeuner/paindore.md)
+* [Crêpes anglaises](dejeuner/crepesanglaises.md)
+
 ### Pain
 
 * [Petits pains au fromage et aux fines herbes](pain/painfromagefinesherbes.md)
 
-### Déjeuners
+### Végé
 
-* [Pain doré](dejeuner/paindore.md)
-* [Crêpes anglaises](dejeuner/crepesanglaises.md)
+* [Minipains végés](vegetarien/minipains.md)
 
 ## License
 
