@@ -2,6 +2,10 @@
 
 Les recettes qu'on fait souvent, parce qu'on est trop paresseux pour ouvrir un livre
 
+### Pain
+
+* [Petits pains au fromage et aux fines herbes](pain/painfromagefinesherbes.md)
+
 ### Déjeuners
 
 * [Pain doré](dejeuner/paindore.md)
