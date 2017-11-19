@@ -2,9 +2,10 @@
 
 Les recettes qu'on fait souvent, parce qu'on est trop paresseux pour ouvrir un livre
 
-## Auteurs
+### Déjeuner
 
-* **Sebastien Lemieux** - *Initial work* - [Ismahel](https://github.com/ismahel)
+* [Pain doré](dejeuner/paindore.md)
+* [Crêpes anglaises](dejeuner/crepesanglaises.md)
 
 ## License
 
