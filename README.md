@@ -2,7 +2,7 @@
 
 Les recettes qu'on fait souvent, parce qu'on est trop paresseux pour ouvrir un livre
 
-### Déjeuner
+### Déjeuners
 
 * [Pain doré](dejeuner/paindore.md)
 * [Crêpes anglaises](dejeuner/crepesanglaises.md)
